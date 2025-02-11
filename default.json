@@ -4,7 +4,7 @@
     ":label(renovate)",
     ":prConcurrentLimit10",
     ":prNotPending",
-    ":timezone(Asia/Tokyo)",
+    ":timezone(Asia/Shanghai)",
     "group:monorepos"
   ],
   "npm": {
